@@ -7,18 +7,30 @@ This project demonstrates a comprehensive data science workflow using the Online
 ## Project Structure
 
 ```
+
 📁 ITS2122 Python for Data Science & AI - Group Project/
+├── 📁 environment/                           # Environment setup and dependencies
+│   └── 📄 install_dependencies.py            # Install required Python packages
 ├── 📁 Phase_1_Data_Cleaning/
-│   ├── 📓 data_cleaning.ipynb         # Data cleaning workflow
-│   ├── 📁 cleaned/                    # Cleaned datasets
+│   ├── 📓 data_cleaning.ipynb                # Data cleaning workflow
+│   ├── 📁 cleaned/                           # Cleaned datasets
 │   │   └── 📄 online_retail_cleaned.csv
-│   └── 📄 README.md                   # Phase 1 documentation
+│   └── 📄 README.md                          # Phase 1 documentation
 ├── 📁 Phase_2_Exploratory_Data_Analysis/
-│   ├── 📓 exploratory_data_analysis.ipynb  # EDA workflow
-│   └── 📄 README.md                   # Phase 2 documentation
-├── 📄 online_retail.csv               # Original raw dataset
+│   ├── 📓 exploratory_data_analysis.ipynb     # EDA workflow
+│   └── 📄 README.md                          # Phase 2 documentation
+├── � Phase_3_Predictive_Modeling/
+│   ├── 📓 predictive_modeling.ipynb          # Predictive modeling workflow
+│   └── �📄 README.md                          # Phase 3 documentation
+├── 📁 Phase_4_Reporting_and_Insights/
+│   ├── 📓 reporting_and_insights.ipynb       # Reporting and insights workflow
+│   └── 📄 README.md                          # Phase 4 documentation
+├── 📁 Phase_5_Project_Reflection_and_Conclusion/
+│   ├── 📓 project_reflection_and_conclusion.ipynb # Project reflection and conclusion
+│   └── 📄 README.md                          # Phase 5 documentation
+├── 📄 online_retail.csv                      # Original raw dataset
 ├── 📄 ITS2122_ Python for Data Science & AI - Group Project Specification.pdf
-└── 📄 README.md                       # This file
+└── 📄 README.md                              # This file
 ```
 
 ## Phase Overview
