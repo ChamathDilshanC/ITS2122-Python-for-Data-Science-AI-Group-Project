@@ -19,3 +19,4 @@ for package in required_packages:
     subprocess.check_call([sys.executable, '-m', 'pip', 'install', package])
 
 print('All required packages installed successfully.')
+        
